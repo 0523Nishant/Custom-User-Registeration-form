@@ -2,6 +2,10 @@
 
 
 
+https://github.com/user-attachments/assets/69913c24-048f-4a6b-ae85-ac57440f030a
+
+
+
 # 📝 Custom Registration Form
 
 A secure and customizable user registration form built with **Spring Boot** and **PostgreSQL**. This project provides a simple and clean implementation for user signup with input validations, password encryption, and database persistence.
